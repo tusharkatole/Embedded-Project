@@ -3,6 +3,7 @@
 <details>
   <summary>Click to Open </summary>
   
+```c 
 #include <project.h>
 #include <stdint.h>
 
@@ -37,7 +38,7 @@ int main()
         }
     }
 }
-
+```
 
   </details>
 
@@ -46,7 +47,8 @@ int main()
 
 <details>
   <summary>Click to Open </summary>
-  
+
+```c
 import serial
 import time
 import numpy as np
@@ -128,5 +130,6 @@ def main():
 
 if __name__ == "__main__":
     main()
-    
+```
+
   </details>
